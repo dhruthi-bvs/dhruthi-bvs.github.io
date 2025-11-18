@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dhruthi Boddapati
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Dhruthi
+last_name: Boddapati
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Senior Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: Lam Research
     url: https://ai.meta.com/
 
 # Social network links
