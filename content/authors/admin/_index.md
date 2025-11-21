@@ -27,9 +27,9 @@ highlight_name: true
 # {{< /alert >}}
 
 
-<div style="padding: 1rem; border: 1px solid #f1c232; background: #fff8e5; border-radius: 4px;">
-  <strong>🚧 Site under construction</strong> – check back soon!
-</div>
+# <div style="padding: 1rem; border: 1px solid #f1c232; background: #fff8e5; border-radius: 4px;">
+#   <strong>🚧 Site under construction</strong> – check back soon!
+# </div>
 
 # Role/position/tagline
 # role: Senior Data Scientist
