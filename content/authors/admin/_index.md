@@ -22,9 +22,13 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-{{< alert style="warning" >}}
-**Site under construction - check back soon!**
-{{< /alert >}}
+# {{< alert style="warning" >}}
+# **Site under construction - check back soon!**
+# {{< /alert >}}
+
+<div style="border:2px solid #f09d00; padding:14px; border-radius:6px; background:#fff7e6;">
+�� <strong>Site under construction — please check back soon!</strong>
+</div>
 
 # Role/position/tagline
 # role: Senior Data Scientist
