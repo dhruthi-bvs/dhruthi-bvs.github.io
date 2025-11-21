@@ -43,10 +43,10 @@ highlight_name: true
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   # - icon: at-symbol
-  - icon: brands/mail
+  - icon: at-symbol
     url: 'mailto:dhruthi212@gmail.com'
     label: E-mail Me
-  - icon: brands/mail
+  - icon: at-symbol
     url: 'mailto:dhruthiv@iisc.ac.in'
     label: E-mail Me
   # - icon: brands/x
