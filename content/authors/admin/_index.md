@@ -80,8 +80,8 @@ education:
   - area: M.Tech Computational and Data Science
     institution: Indian Institute of Science (IISc)
     icon: ""
-    date_start: 2025-07
-    date_end: 2023-08
+    date_start: 2025-08-01
+    date_end: 2023-07-31
     # summary: |
       # GPA: 4.0/4.0
 
@@ -89,8 +89,8 @@ education:
   - area: B.Tech Chemical Engineering
     institution: Andhra University College of Engineering (AUCE), Andhra University
     icon: ""
-    date_start: 2019-07
-    date_end: 2023-07
+    date_start: 2019-07-31
+    date_end: 2023-08-01
     # summary: |
     #   GPA: 3.9/4.0
 
@@ -101,7 +101,7 @@ work:
     company_name: Lam Reserach, India
     # company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2025-08
+    date_start: 2025-08-01
     date_end: ''
     # summary: |2-
       # Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
