@@ -34,9 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My master’s research focused on molecular dynamics and multiscale modeling, where I co-developed \textbf{ChemXDyn}, a dynamics-based framework for accurately identifying species and reactions from MD trajectories (\textit{ab initio} methods, reactive force fields (ReaxFF), and machine-learned interatomic potentials).
 
         Please reach out to collaborate 😃
     design:
