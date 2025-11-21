@@ -26,8 +26,9 @@ highlight_name: true
 # **Site under construction - check back soon!**
 # {{< /alert >}}
 
-<div style="border:2px solid #f09d00; padding:14px; border-radius:6px; background:#fff7e6;">
-�� <strong>Site under construction — please check back soon!</strong>
+
+<div style="padding: 1rem; border: 1px solid #f1c232; background: #fff8e5; border-radius: 4px;">
+  <strong>🚧 Site under construction</strong> – check back soon!
 </div>
 
 # Role/position/tagline
