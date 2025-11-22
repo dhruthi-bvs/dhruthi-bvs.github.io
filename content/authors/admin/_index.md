@@ -174,7 +174,7 @@ awards:
   - title: Ministry of Education (MoE) Fellowship
     summary: Government of India (2023–2025)
     icon: academic-cap
-    date: ''
+    date: '2023-2025'
   
   - title: Undergraduate Merit Award & NSF Scholarship
     summary: 2019–2023

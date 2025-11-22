@@ -36,7 +36,6 @@ sections:
       text: |-
         My master’s research focused on molecular dynamics and multiscale modeling, where I co-developed **ChemXDyn**, a dynamics-based framework for accurately identifying species and reactions from MD trajectories *ab initio* methods, reactive force fields (ReaxFF), and machine-learned interatomic potentials).
 
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   # - block: collection
