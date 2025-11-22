@@ -36,7 +36,6 @@ header:
     show_theme_chooser: true
     logo: 
       text: 'Dhruthi Boddapati'
-      filename: "favicon.ico"
 
 
   custom_html: 
