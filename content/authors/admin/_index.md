@@ -164,13 +164,28 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Recipient of Ministry of Education (MoE), Government of India fellowship (2023 - 2025).
-    # url: https://neurips.cc/
-    # date: '2022-12-01'
-    # awarder: NeurIPS
-    icon: hero/trophy
+  # - title: Recipient of Ministry of Education (MoE), Government of India fellowship (2023 - 2025).
+  #   # url: https://neurips.cc/
+  #   # date: '2022-12-01'
+  #   # awarder: NeurIPS
+  #   icon: hero/trophy
     # summary: |
       # Awarded for groundbreaking work on efficient training of large models.
+  - title: Ministry of Education (MoE) Fellowship
+    subtitle: Government of India (2023–2025)
+    icon: academic-cap
+  
+  - title: Undergraduate Merit Award & NSF Scholarship
+    subtitle: 2019–2023
+    icon: academic-cap
+
+  - title: First Rank in School — AISSCE (CBSE)
+    subtitle: 2019 Examination
+    icon: star
+
+  - title: Highest Score in Science — ICSE
+    subtitle: 2017 Examination
+    icon: beaker
   # - title: AI Innovation Grant
   #   url: https://www.nsf.gov/
   #   date: '2021-06-15'
