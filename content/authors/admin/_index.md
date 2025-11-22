@@ -83,10 +83,10 @@ education:
     date_start: 2025-08-01
     date_end: 2023-07-31
     summary: |
-      Advisor: [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/) 
-      Collaborators: Dr. Phani Motamarri, Raj Maddipati
+      Advisor: [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/)<br>
+      Collaborators: [Dr. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi), [Raj Maddipati](https://flamelab-iisc.github.io/author/raj-maddipati/)
+      Thesis: A reactive molecular dynamics framework to obtain chemical kinetic models for fuel oxidation.
 
-      # Specialized in machine learning and robotics.
   - area: B.Tech Chemical Engineering
     institution: Andhra University College of Engineering (AUCE), Andhra University
     icon: ""
@@ -131,7 +131,7 @@ skills:
       - name: LAMMPS
         description: ''
         percent: 85
-        icon: molecule
+        icon: cube
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -139,11 +139,11 @@ skills:
       - name: Classical dance
         description: 'Bharatanatyam and Kuchipudi'
         # percent: 80
-        icon: 💃
+        icon: musical-note
       - name: Chess
         description: 'Enjoys playing chess'
         # percent: 90
-        icon: ♞
+        icon: puzzle-piece
       - name: Reading
         description: 'Loves to read'
         # percent: 70
@@ -163,28 +163,28 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Best Paper Award
-#     url: https://neurips.cc/
-#     date: '2022-12-01'
-#     awarder: NeurIPS
-#     icon: hero/trophy
-#     summary: |
-#       Awarded for groundbreaking work on efficient training of large models.
-#   - title: AI Innovation Grant
-#     url: https://www.nsf.gov/
-#     date: '2021-06-15'
-#     awarder: National Science Foundation
-#     icon: hero/currency-dollar
-#     summary: |
-#       $500,000 grant for research in ethical AI development.
-#   - title: Outstanding PhD Thesis
-#     url: https://www.stanford.edu/
-#     date: '2019-06-30'
-#     awarder: Stanford University
-#     icon: hero/academic-cap
-#     summary: |
-#       Recognized for contributions to scaling laws in deep learning.
+awards:
+  - title: Recipient of Ministry of Education (MoE), Government of India fellowship (2023 - 2025).
+    # url: https://neurips.cc/
+    # date: '2022-12-01'
+    # awarder: NeurIPS
+    icon: hero/trophy
+    # summary: |
+      # Awarded for groundbreaking work on efficient training of large models.
+  # - title: AI Innovation Grant
+  #   url: https://www.nsf.gov/
+  #   date: '2021-06-15'
+  #   awarder: National Science Foundation
+  #   icon: hero/currency-dollar
+  #   summary: |
+  #     $500,000 grant for research in ethical AI development.
+  # - title: Outstanding PhD Thesis
+  #   url: https://www.stanford.edu/
+  #   date: '2019-06-30'
+  #   awarder: Stanford University
+  #   icon: hero/academic-cap
+  #   summary: |
+  #     Recognized for contributions to scaling laws in deep learning.
 ---
 
 <!-- My master’s research focused on molecular dynamics and multiscale modeling, where I co-developed \textbf{ChemXDyn}, a dynamics-based framework for accurately identifying species and reactions from MD trajectories (\textit{ab initio} methods, reactive force fields (ReaxFF), and machine-learned interatomic potentials). The extracted reaction mechanisms and rate constants were validated against experimental data and further assessed at the continuum scale through predictions of ignition delay times and flame speeds. My broader research interests include molecular dynamics, multiscale modeling, scientific computing, and machine learning. -->
