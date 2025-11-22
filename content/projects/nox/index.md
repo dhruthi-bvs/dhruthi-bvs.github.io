@@ -1,5 +1,5 @@
 ---
-title: Study of NO<sub>x</sub> formation pathways from atomistic simulations
+title: "Study of NOₓ formation pathways from atomistic simulations"
 date: 2025-11-22
 # links:
 #   - type: site
