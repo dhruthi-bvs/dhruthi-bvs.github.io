@@ -174,22 +174,22 @@ awards:
   - title: Ministry of Education (MoE) Fellowship
     summary: Government of India (2023–2025)
     icon: academic-cap
-    date: '2025-31-07'
+    date: '2025-07-31'
   
   - title: Undergraduate Merit Award & NSF Scholarship
     summary: 2019–2023
     icon: academic-cap
-    date: '2023-31-07'
+    date: '2023-07-31'
 
   - title: First Rank in School — AISSCE (CBSE)
     summary: 2019 Examination
     icon: star
-    date: '2019-30-04'
+    date: '2019-04-30'
 
   - title: Highest Score in Science — ICSE
     summary: 2017 Examination
     icon: beaker
-    date: '2017-30-04'
+    date: '2017-04-30'
   # - title: AI Innovation Grant
   #   url: https://www.nsf.gov/
   #   date: '2021-06-15'
