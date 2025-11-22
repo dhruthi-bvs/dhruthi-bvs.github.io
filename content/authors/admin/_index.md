@@ -82,8 +82,9 @@ education:
     icon: ""
     date_start: 2025-08-01
     date_end: 2023-07-31
-    # summary: |
-      # GPA: 4.0/4.0
+    summary: |
+      Advisor: [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/) 
+      Collaborators: Dr. Phani Motamarri, Raj Maddipati
 
       # Specialized in machine learning and robotics.
   - area: B.Tech Chemical Engineering
