@@ -1,5 +1,5 @@
 ---
-title: ChemXDyn: A dynamics-based trajectory analyzer for atomistic simulations
+title: "ChemXDyn A dynamics-based trajectory analyzer for atomistic simulations"
 date: 2025-11-22
 # links:
 #   - type: site
