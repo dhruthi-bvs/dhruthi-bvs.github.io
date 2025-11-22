@@ -84,7 +84,7 @@ education:
     date_end: 2023-07-31
     summary: |
       Advisor: [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/)<br>
-      Collaborators: [Dr. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi), [Raj Maddipati](https://flamelab-iisc.github.io/author/raj-maddipati/)<br>
+      Collaborators: [Raj Maddipati](https://flamelab-iisc.github.io/author/raj-maddipati/), [Dr. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi)<br>
       Thesis: A reactive molecular dynamics framework to obtain chemical kinetic models for fuel oxidation.
 
   - area: B.Tech Chemical Engineering
@@ -174,22 +174,22 @@ awards:
   - title: Ministry of Education (MoE) Fellowship
     summary: Government of India (2023–2025)
     icon: academic-cap
-    date: '2023-2025'
+    date: '2025-31-07'
   
   - title: Undergraduate Merit Award & NSF Scholarship
     summary: 2019–2023
     icon: academic-cap
-    date: ''
+    date: '2023-31-07'
 
   - title: First Rank in School — AISSCE (CBSE)
     summary: 2019 Examination
     icon: star
-    date: ''
+    date: '2019-30-04'
 
   - title: Highest Score in Science — ICSE
     summary: 2017 Examination
     icon: beaker
-    date: ''
+    date: '2017-30-04'
   # - title: AI Innovation Grant
   #   url: https://www.nsf.gov/
   #   date: '2021-06-15'

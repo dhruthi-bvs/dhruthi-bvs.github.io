@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Dhruthi Boddapati
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://dhruthi_bvs.com/'
 
 ############################
 ## LANGUAGE
@@ -53,3 +53,13 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+############################
+## FAVICON / SITE ICON
+############################
+header:
+  custom_html: |
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
