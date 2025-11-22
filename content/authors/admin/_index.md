@@ -127,22 +127,22 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: LAMMPS
         description: ''
         percent: 85
-        icon: cloud
+        icon: molecule
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Classical dance
-        description: 'Bharatnatyam and Kuchipudi'
+        description: 'Bharatanatyam and Kuchipudi'
         # percent: 80
-        icon: person-dance
+        icon: 💃
       - name: Chess
         description: 'Enjoys playing chess'
         # percent: 90
-        icon: chess
+        icon: ♞
       - name: Reading
         description: 'Loves to read'
         # percent: 70
@@ -150,11 +150,11 @@ skills:
 
 languages:
   - name: Telugu (Native)
-    # percent: 100
+    percent: 100
   - name: Hindi
-    # percent: 100
+    percent: 100
   - name: English
-    # percent: 100
+    percent: 100
  
   
 
